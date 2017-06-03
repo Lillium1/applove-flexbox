@@ -99,6 +99,47 @@ a:hover {
 	font-weight: bold;
 }
 
+/******** WORK *******/
+
+#work {
+	margin-top: 80px;
+	text-align: center;
+	background-color: white;
+	padding: 0 70px 0 70px;
+}
+
+.info-work.flex-container {
+	flex-direction: column;
+	align-items: center;
+}
+
+.text-work {
+	font-size: 2.4em;
+	font-weight: bold;
+	margin: 0 auto;
+}
+
+.work-img{
+	width: 100%;
+}
+
+.fotos.flex-container{
+	flex-wrap: wrap;
+	justify-content: center;
+	text-align: center;
+}
+
+.galeria-work{
+	width: 25%;
+	padding: 0 20px;
+	overflow: hidden;
+	cursor: pointer;
+}
+
+.box-pop{
+	width: 100%;
+}
+
 
 /******** FOOTER *******/
 
